@@ -1,0 +1,11 @@
+{
+    "name": "arm-band/mail_php_test",
+    "authors": [
+        {
+            "name": "Arm=Band"
+        }
+    ],
+    "require": {
+        "pear/mail_mime-decode": "^1.5.5.2"
+    }
+}
